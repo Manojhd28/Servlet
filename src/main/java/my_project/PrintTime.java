@@ -30,6 +30,7 @@ public class PrintTime implements Servlet {
 
 	public void init(ServletConfig arg0) throws ServletException {
 		// TODO Auto-generated method stub
+		System.out.println("hello");
 		
 	}
 
